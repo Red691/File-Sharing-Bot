@@ -10,12 +10,12 @@ API_ID = int(os.environ.get("API_ID", "20594537"))
 API_HASH = os.environ.get("API_HASH", "c505a4e5bb7d482197875888af544f17")
 
 
-OWNER_ID = int(os.environ.get("OWNER_ID", ""))
+OWNER_ID = int(os.environ.get("OWNER_ID", "5770911041"))
 DB_URL = os.environ.get("DB_URL", "mongodb+srv://kumarnikhil05848:kumarnikhil05848@cluster0.1nr8lgj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DB_NAME = os.environ.get("DB_NAME", "FbI")
 
 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", ""))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002566756176"))
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "0"))
 
 
